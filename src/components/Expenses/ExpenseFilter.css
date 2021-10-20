@@ -1,0 +1,16 @@
+.expense-filter {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.expense-filter select {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 1rem 0;
+  /* color: white;
+  background-color: #40005d;
+  border: 1px solid white; */
+  padding: 0.5rem;
+  border-radius: 12px;
+}
